@@ -1,1 +1,0 @@
-# epuck-lighting-project
